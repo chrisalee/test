@@ -130,7 +130,7 @@ section {
 }
 
 .home {
-  background: url("../images/home-bg.jpg") no-repeat rgba(0, 0, 0, 0.5);
+  background: url("../assets/home-bg.jpg") no-repeat rgba(0, 0, 0, 0.5);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -181,7 +181,7 @@ section {
 }
 
 .about {
-  background: url("../images/about-bg.jpg") no-repeat rgba(0, 0, 0, 0.5);
+  background: url("../assets/about-bg.jpeg") no-repeat rgba(0, 0, 0, 0.5);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -190,7 +190,7 @@ section {
 
 .about .details {
   border-radius: 0.5rem;
-  background: url("../images/details-bg.jpg") no-repeat rgba(0, 0, 0, 0.5);
+  background: url("../assets/about-bg.jpeg") no-repeat rgba(0, 0, 0, 0.5);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -272,7 +272,7 @@ section {
 }
 
 .reviews {
-  background: url("../images/reviews-bg.jpg") no-repeat rgba(0, 0, 0, 0.5);
+  background: url("../assets/reviews-bg.jpeg") no-repeat rgba(0, 0, 0, 0.5);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -329,7 +329,7 @@ section {
 }
 
 .tours {
-  background: url("../images/tour-bg.jpg") no-repeat rgba(0, 0, 0, 0.5);
+  background: url("../assets/tour-bg.png") no-repeat rgba(0, 0, 0, 0.5);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -400,7 +400,7 @@ section {
 }
 
 .destinations {
-  background: url("../images/destination-bg.jpg") no-repeat rgba(0, 0, 0, 0.5);
+  background: url("../assets/destination-bg.jpg") no-repeat rgba(0, 0, 0, 0.5);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -453,7 +453,7 @@ section {
 }
 
 .contact {
-  background: url("../images/contact-bg.jpg") no-repeat rgba(0, 0, 0, 0.5);
+  background: url("../assets/contact-bg.jpeg") no-repeat rgba(0, 0, 0, 0.5);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
