@@ -129,6 +129,47 @@ section {
   display: none;
 }
 
+.index {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  gap: 5em;
+  height: 100vh;
+
+  background: url("../assets/index-bg.jpeg") no-repeat rgba(0, 0, 0, 0.5);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.sec-1 {
+  margin-left: 20px;
+}
+
+@media (max-width: 600px) {
+  .index {
+    flex-direction: column;
+  }
+}
+
+.index img {
+  width: 90%;
+  border-radius: 7px;
+}
+
+.index h1 {
+  font-size: 5rem;
+  color: var(--white);
+}
+
+.index h3 {
+  font-size: 3rem;
+  color: var(--white);
+}
+
 .home {
   background: url("../assets/home-bg.jpg") no-repeat rgba(0, 0, 0, 0.5);
   background-position: center;
